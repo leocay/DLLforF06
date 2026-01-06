@@ -1,0 +1,28 @@
+# ===== Visual Studio =====
+.vs/
+*.user
+*.suo
+
+# ===== Build output =====
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+build/
+
+# ===== Intermediate =====
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+
+# ===== Executables =====
+*.exe
+*.dll
+
+# ===== OS =====
+Thumbs.db
+.DS_Store
